@@ -16,3 +16,23 @@
     font-size: 2rem;
     
 }
+
+@media (max-width:850px) {
+    .scoreStyle {
+        flex-direction: column;
+    }
+    .teamA {
+        width: 100%;
+    }
+    .batsmanName {
+        width: 100%;
+        justify-content: space-around;
+    }
+    .bowllerName {
+        width: 100%;
+    }
+    .form-div {
+        max-width: 350px;
+        position: inherit;
+    }
+}
