@@ -1,0 +1,18 @@
+.center-h1{
+    text-align: center;
+}
+.center-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.increseSize{
+    font-size: 4rem;
+    font-family: poppins;
+    font-weight: 400;
+}
+.over{
+    font-size: 2rem;
+    
+}
